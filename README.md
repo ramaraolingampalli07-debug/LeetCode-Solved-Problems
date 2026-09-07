@@ -18,4 +18,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3904-smallest-stable-index-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3904-smallest-stable-index-ii) |
+## String
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0940-distinct-subsequences-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->

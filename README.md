@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0835-image-overlap) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3904-smallest-stable-index-ii) |
@@ -26,4 +27,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0940-distinct-subsequences-ii) |
+## Matrix
+|  |
+| ------- |
+| [0835-image-overlap](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0835-image-overlap) |
 <!---LeetCode Topics End-->

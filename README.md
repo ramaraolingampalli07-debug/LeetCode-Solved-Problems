@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -48,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Geometry
+|  |
+| ------- |
+| [1401-circle-and-rectangle-overlapping](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 <!---LeetCode Topics End-->

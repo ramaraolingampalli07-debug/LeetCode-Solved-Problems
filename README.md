@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1096-brace-expansion-ii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Dynamic Programming
 |  |
@@ -56,4 +57,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
+## Hash Table
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1096-brace-expansion-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1096-brace-expansion-ii) |
+## Stack
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1096-brace-expansion-ii) |
+## Sorting
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->

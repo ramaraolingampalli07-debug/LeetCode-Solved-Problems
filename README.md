@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1096-brace-expansion-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0940-distinct-subsequences-ii) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Breadth-First Search
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->

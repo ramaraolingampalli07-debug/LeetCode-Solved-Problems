@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3524-find-x-value-of-array-i](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3524-find-x-value-of-array-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3904-smallest-stable-index-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3904-smallest-stable-index-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
 |  |
 | ------- |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1096-brace-expansion-ii) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bracket Sequences
 |  |
 | ------- |

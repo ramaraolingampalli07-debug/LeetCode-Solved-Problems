@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1401-circle-and-rectangle-overlapping](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3524-find-x-value-of-array-i) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3875-construct-uniform-parity-array-i](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Prefix Sum
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
 |  |

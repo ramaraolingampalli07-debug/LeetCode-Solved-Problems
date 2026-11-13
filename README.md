@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0835-image-overlap) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3524-find-x-value-of-array-i](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3693-climbing-stairs-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3693-climbing-stairs-ii) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0032-longest-valid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1096-brace-expansion-ii) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -117,4 +119,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Segment Tree
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Sliding Window
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Stack
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->

@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0835-image-overlap) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3524-find-x-value-of-array-i](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3524-find-x-value-of-array-i) |
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1401-circle-and-rectangle-overlapping) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3524-find-x-value-of-array-i](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3524-find-x-value-of-array-i) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -29,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3904-smallest-stable-index-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/3904-smallest-stable-index-ii) |
 ## String
@@ -46,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0940-distinct-subsequences-ii](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/0940-distinct-subsequences-ii) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ramaraolingampalli07-debug/LeetCode-Solved-Problems/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
